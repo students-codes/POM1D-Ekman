@@ -1,0 +1,13 @@
+&LIST1
+LEVELS=401,
+DT1=300.,
+days=300.,
+H=800.,
+sal=38.,
+temp=13.,
+WINDX=0.,
+WINDY=10.,
+VERTMIX=0.1,
+ALAT=45.
+&END
+

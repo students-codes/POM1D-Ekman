@@ -1,0 +1,1234 @@
+ Parametri di input
+ vertical LEVELS      :          401
+   DT1   (seconds)    :    300.00000    
+  integration days    :    300.00000    
+   H      (meters)    :    800.00000    
+   sal     (PSU)      :    38.000000    
+   temp    (deg C)    :    13.000000    
+   WINDX  (m/s)       :    0.0000000    
+   WINDY  (m/s)       :    10.000000    
+   VERTMIX(m**2/s)    :   0.10000000    
+ latitude for Coriolis:    45.000000    
+
+X component WIND STRESS   0.00E+00 Y component WIND STRESS   1.25E-01
+
+ Model levels in meters
+     K       Z
+    1    -1.0000000
+    2    -3.0000000
+    3    -4.9999995
+    4    -7.0000000
+    5    -9.0000000
+    6   -11.0000000
+    7   -13.0000000
+    8   -15.0000010
+    9   -17.0000000
+   10   -19.0000000
+   11   -21.0000000
+   12   -22.9999981
+   13   -25.0000000
+   14   -26.9999981
+   15   -29.0000019
+   16   -31.0000000
+   17   -33.0000000
+   18   -35.0000038
+   19   -37.0000000
+   20   -39.0000000
+   21   -41.0000000
+   22   -43.0000000
+   23   -45.0000000
+   24   -47.0000000
+   25   -49.0000000
+   26   -51.0000000
+   27   -52.9999962
+   28   -55.0000000
+   29   -57.0000000
+   30   -59.0000038
+   31   -61.0000000
+   32   -63.0000000
+   33   -65.0000000
+   34   -67.0000000
+   35   -69.0000000
+   36   -71.0000000
+   37   -73.0000000
+   38   -75.0000000
+   39   -77.0000000
+   40   -79.0000000
+   41   -81.0000000
+   42   -83.0000000
+   43   -85.0000000
+   44   -87.0000000
+   45   -89.0000000
+   46   -91.0000000
+   47   -93.0000000
+   48   -95.0000000
+   49   -97.0000000
+   50   -99.0000000
+   51  -101.0000000
+   52  -103.0000000
+   53  -104.9999924
+   54  -106.9999924
+   55  -109.0000000
+   56  -111.0000000
+   57  -113.0000000
+   58  -115.0000000
+   59  -116.9999924
+   60  -119.0000076
+   61  -121.0000000
+   62  -123.0000000
+   63  -125.0000000
+   64  -127.0000000
+   65  -129.0000000
+   66  -131.0000000
+   67  -133.0000000
+   68  -135.0000000
+   69  -137.0000000
+   70  -139.0000000
+   71  -141.0000000
+   72  -143.0000000
+   73  -145.0000000
+   74  -147.0000000
+   75  -149.0000000
+   76  -151.0000000
+   77  -153.0000000
+   78  -155.0000000
+   79  -157.0000000
+   80  -159.0000000
+   81  -161.0000000
+   82  -163.0000000
+   83  -165.0000000
+   84  -167.0000000
+   85  -169.0000000
+   86  -171.0000000
+   87  -173.0000000
+   88  -175.0000000
+   89  -177.0000000
+   90  -179.0000000
+   91  -181.0000000
+   92  -183.0000000
+   93  -185.0000000
+   94  -187.0000000
+   95  -189.0000000
+   96  -191.0000000
+   97  -193.0000000
+   98  -195.0000000
+   99  -197.0000000
+  100  -199.0000000
+  101  -201.0000000
+  102  -203.0000000
+  103  -205.0000000
+  104  -207.0000000
+  105  -208.9999847
+  106  -210.9999847
+  107  -213.0000153
+  108  -215.0000153
+  109  -217.0000000
+  110  -219.0000000
+  111  -221.0000000
+  112  -223.0000000
+  113  -225.0000000
+  114  -227.0000000
+  115  -229.0000000
+  116  -231.0000000
+  117  -233.0000000
+  118  -234.9999847
+  119  -236.9999847
+  120  -239.0000153
+  121  -241.0000153
+  122  -243.0000000
+  123  -245.0000000
+  124  -247.0000000
+  125  -249.0000000
+  126  -251.0000000
+  127  -253.0000000
+  128  -255.0000000
+  129  -257.0000000
+  130  -259.0000000
+  131  -261.0000000
+  132  -263.0000000
+  133  -265.0000000
+  134  -267.0000000
+  135  -269.0000000
+  136  -271.0000000
+  137  -273.0000000
+  138  -275.0000000
+  139  -277.0000000
+  140  -279.0000000
+  141  -281.0000000
+  142  -283.0000000
+  143  -285.0000000
+  144  -287.0000000
+  145  -289.0000000
+  146  -291.0000000
+  147  -293.0000000
+  148  -295.0000000
+  149  -297.0000000
+  150  -299.0000000
+  151  -301.0000000
+  152  -303.0000000
+  153  -305.0000000
+  154  -307.0000000
+  155  -309.0000000
+  156  -311.0000000
+  157  -313.0000000
+  158  -315.0000000
+  159  -317.0000000
+  160  -319.0000000
+  161  -321.0000000
+  162  -323.0000000
+  163  -325.0000000
+  164  -327.0000000
+  165  -329.0000000
+  166  -331.0000000
+  167  -333.0000000
+  168  -335.0000000
+  169  -337.0000000
+  170  -339.0000000
+  171  -341.0000000
+  172  -343.0000000
+  173  -345.0000000
+  174  -347.0000000
+  175  -349.0000000
+  176  -351.0000000
+  177  -353.0000000
+  178  -355.0000000
+  179  -357.0000000
+  180  -359.0000000
+  181  -361.0000000
+  182  -363.0000000
+  183  -365.0000000
+  184  -367.0000000
+  185  -369.0000000
+  186  -371.0000000
+  187  -373.0000000
+  188  -375.0000000
+  189  -377.0000000
+  190  -379.0000000
+  191  -381.0000000
+  192  -383.0000000
+  193  -385.0000000
+  194  -387.0000000
+  195  -389.0000000
+  196  -391.0000000
+  197  -393.0000000
+  198  -395.0000000
+  199  -397.0000000
+  200  -399.0000000
+  201  -401.0000305
+  202  -402.9999695
+  203  -405.0000305
+  204  -406.9999695
+  205  -409.0000000
+  206  -410.9999695
+  207  -413.0000000
+  208  -414.9999695
+  209  -417.0000000
+  210  -418.9999695
+  211  -421.0000000
+  212  -422.9999390
+  213  -425.0000000
+  214  -427.0000610
+  215  -429.0000000
+  216  -431.0000305
+  217  -433.0000000
+  218  -435.0000305
+  219  -437.0000000
+  220  -439.0000305
+  221  -441.0000000
+  222  -443.0000305
+  223  -444.9999695
+  224  -447.0000305
+  225  -448.9999695
+  226  -451.0000305
+  227  -452.9999695
+  228  -455.0000305
+  229  -456.9999695
+  230  -459.0000000
+  231  -460.9999695
+  232  -463.0000000
+  233  -464.9999695
+  234  -467.0000000
+  235  -468.9999695
+  236  -471.0000000
+  237  -472.9999390
+  238  -475.0000000
+  239  -477.0000610
+  240  -479.0000000
+  241  -481.0000305
+  242  -483.0000000
+  243  -485.0000305
+  244  -487.0000000
+  245  -489.0000305
+  246  -491.0000000
+  247  -493.0000305
+  248  -494.9999695
+  249  -497.0000305
+  250  -498.9999695
+  251  -501.0000305
+  252  -502.9999695
+  253  -505.0000305
+  254  -506.9999695
+  255  -509.0000000
+  256  -510.9999695
+  257  -513.0000000
+  258  -514.9999390
+  259  -517.0000000
+  260  -518.9999390
+  261  -521.0000000
+  262  -522.9999390
+  263  -525.0000000
+  264  -527.0000610
+  265  -529.0000000
+  266  -531.0000610
+  267  -533.0000000
+  268  -535.0000610
+  269  -537.0000000
+  270  -539.0000610
+  271  -541.0000000
+  272  -543.0000000
+  273  -545.0000000
+  274  -547.0000000
+  275  -549.0000000
+  276  -551.0000000
+  277  -553.0000000
+  278  -555.0000000
+  279  -557.0000000
+  280  -559.0000000
+  281  -560.9999390
+  282  -563.0000000
+  283  -564.9999390
+  284  -567.0000000
+  285  -568.9999390
+  286  -571.0000000
+  287  -572.9999390
+  288  -575.0000000
+  289  -577.0000610
+  290  -579.0000000
+  291  -581.0000610
+  292  -583.0000000
+  293  -585.0000610
+  294  -587.0000000
+  295  -589.0000610
+  296  -591.0000000
+  297  -593.0000000
+  298  -595.0000000
+  299  -597.0000000
+  300  -599.0000000
+  301  -601.0000000
+  302  -603.0000000
+  303  -605.0000000
+  304  -607.0000000
+  305  -609.0000000
+  306  -610.9999390
+  307  -613.0000000
+  308  -614.9999390
+  309  -617.0000000
+  310  -618.9999390
+  311  -621.0000000
+  312  -622.9999390
+  313  -625.0000000
+  314  -627.0000610
+  315  -629.0000000
+  316  -631.0000610
+  317  -633.0000000
+  318  -635.0000610
+  319  -637.0000000
+  320  -639.0000610
+  321  -641.0000000
+  322  -643.0000000
+  323  -645.0000000
+  324  -647.0000000
+  325  -649.0000000
+  326  -651.0000000
+  327  -653.0000000
+  328  -655.0000000
+  329  -657.0000000
+  330  -659.0000000
+  331  -660.9999390
+  332  -663.0000000
+  333  -664.9999390
+  334  -667.0000000
+  335  -668.9999390
+  336  -671.0000000
+  337  -672.9999390
+  338  -675.0000000
+  339  -677.0000610
+  340  -679.0000000
+  341  -681.0000610
+  342  -683.0000000
+  343  -685.0000610
+  344  -687.0000000
+  345  -689.0000610
+  346  -691.0000000
+  347  -693.0000000
+  348  -695.0000000
+  349  -697.0000000
+  350  -699.0000000
+  351  -701.0000000
+  352  -703.0000000
+  353  -705.0000000
+  354  -707.0000000
+  355  -709.0000000
+  356  -710.9999390
+  357  -713.0000000
+  358  -714.9999390
+  359  -717.0000000
+  360  -718.9999390
+  361  -721.0000000
+  362  -722.9999390
+  363  -725.0000000
+  364  -727.0000610
+  365  -729.0000000
+  366  -731.0000610
+  367  -733.0000000
+  368  -735.0000610
+  369  -737.0000000
+  370  -739.0000610
+  371  -741.0000000
+  372  -743.0000000
+  373  -745.0000000
+  374  -747.0000000
+  375  -749.0000000
+  376  -751.0000000
+  377  -753.0000000
+  378  -755.0000000
+  379  -757.0000000
+  380  -759.0000000
+  381  -760.9999390
+  382  -763.0000000
+  383  -764.9999390
+  384  -767.0000000
+  385  -768.9999390
+  386  -771.0000000
+  387  -772.9999390
+  388  -775.0000000
+  389  -777.0000610
+  390  -779.0000000
+  391  -781.0000610
+  392  -783.0000000
+  393  -785.0000610
+  394  -787.0000000
+  395  -789.0000610
+  396  -791.0000000
+  397  -793.0000000
+  398  -795.0000000
+  399  -797.0000000
+  400  -799.0000000
+  401  -801.0000000
+  coriolis parameter   1.03096165E-04
+
+
+
+ MODEL START TIME STEP ISTART =   1 MODEL END TIME STEP IEND = 86400    TIME STEP IN SECONDS =300.0
+
+ END OF SIMULATION, TIME (DAYS) =    300.31
+   simulation results      
+            DEPTH     U         V         KM
+ solution at     86400   time step      -1.0  2.68E-02  2.57E-02  1.00E-01
+ solution at     86400   time step      -3.0  2.67E-02  2.33E-02  1.00E-01
+ solution at     86400   time step      -5.0  2.65E-02  2.11E-02  1.00E-01
+ solution at     86400   time step      -7.0  2.62E-02  1.90E-02  1.00E-01
+ solution at     86400   time step      -9.0  2.59E-02  1.70E-02  1.00E-01
+ solution at     86400   time step     -11.0  2.54E-02  1.51E-02  1.00E-01
+ solution at     86400   time step     -13.0  2.49E-02  1.33E-02  1.00E-01
+ solution at     86400   time step     -15.0  2.44E-02  1.16E-02  1.00E-01
+ solution at     86400   time step     -17.0  2.38E-02  1.00E-02  1.00E-01
+ solution at     86400   time step     -19.0  2.31E-02  8.55E-03  1.00E-01
+ solution at     86400   time step     -21.0  2.25E-02  7.16E-03  1.00E-01
+ solution at     86400   time step     -23.0  2.18E-02  5.86E-03  1.00E-01
+ solution at     86400   time step     -25.0  2.10E-02  4.65E-03  1.00E-01
+ solution at     86400   time step     -27.0  2.03E-02  3.53E-03  1.00E-01
+ solution at     86400   time step     -29.0  1.95E-02  2.49E-03  1.00E-01
+ solution at     86400   time step     -31.0  1.87E-02  1.53E-03  1.00E-01
+ solution at     86400   time step     -33.0  1.79E-02  6.51E-04  1.00E-01
+ solution at     86400   time step     -35.0  1.72E-02 -1.56E-04  1.00E-01
+ solution at     86400   time step     -37.0  1.64E-02 -8.93E-04  1.00E-01
+ solution at     86400   time step     -39.0  1.56E-02 -1.56E-03  1.00E-01
+ solution at     86400   time step     -41.0  1.48E-02 -2.17E-03  1.00E-01
+ solution at     86400   time step     -43.0  1.40E-02 -2.71E-03  1.00E-01
+ solution at     86400   time step     -45.0  1.33E-02 -3.20E-03  1.00E-01
+ solution at     86400   time step     -47.0  1.25E-02 -3.63E-03  1.00E-01
+ solution at     86400   time step     -49.0  1.18E-02 -4.01E-03  1.00E-01
+ solution at     86400   time step     -51.0  1.11E-02 -4.34E-03  1.00E-01
+ solution at     86400   time step     -53.0  1.04E-02 -4.62E-03  1.00E-01
+ solution at     86400   time step     -55.0  9.75E-03 -4.87E-03  1.00E-01
+ solution at     86400   time step     -57.0  9.09E-03 -5.07E-03  1.00E-01
+ solution at     86400   time step     -59.0  8.46E-03 -5.23E-03  1.00E-01
+ solution at     86400   time step     -61.0  7.85E-03 -5.36E-03  1.00E-01
+ solution at     86400   time step     -63.0  7.26E-03 -5.46E-03  1.00E-01
+ solution at     86400   time step     -65.0  6.69E-03 -5.53E-03  1.00E-01
+ solution at     86400   time step     -67.0  6.15E-03 -5.57E-03  1.00E-01
+ solution at     86400   time step     -69.0  5.63E-03 -5.58E-03  1.00E-01
+ solution at     86400   time step     -71.0  5.13E-03 -5.57E-03  1.00E-01
+ solution at     86400   time step     -73.0  4.66E-03 -5.54E-03  1.00E-01
+ solution at     86400   time step     -75.0  4.21E-03 -5.49E-03  1.00E-01
+ solution at     86400   time step     -77.0  3.78E-03 -5.42E-03  1.00E-01
+ solution at     86400   time step     -79.0  3.37E-03 -5.34E-03  1.00E-01
+ solution at     86400   time step     -81.0  2.99E-03 -5.25E-03  1.00E-01
+ solution at     86400   time step     -83.0  2.62E-03 -5.14E-03  1.00E-01
+ solution at     86400   time step     -85.0  2.28E-03 -5.02E-03  1.00E-01
+ solution at     86400   time step     -87.0  1.96E-03 -4.89E-03  1.00E-01
+ solution at     86400   time step     -89.0  1.66E-03 -4.75E-03  1.00E-01
+ solution at     86400   time step     -91.0  1.38E-03 -4.61E-03  1.00E-01
+ solution at     86400   time step     -93.0  1.12E-03 -4.46E-03  1.00E-01
+ solution at     86400   time step     -95.0  8.71E-04 -4.30E-03  1.00E-01
+ solution at     86400   time step     -97.0  6.45E-04 -4.15E-03  1.00E-01
+ solution at     86400   time step     -99.0  4.36E-04 -3.99E-03  1.00E-01
+ solution at     86400   time step    -101.0  2.43E-04 -3.82E-03  1.00E-01
+ solution at     86400   time step    -103.0  6.61E-05 -3.66E-03  1.00E-01
+ solution at     86400   time step    -105.0 -9.57E-05 -3.50E-03  1.00E-01
+ solution at     86400   time step    -107.0 -2.43E-04 -3.34E-03  1.00E-01
+ solution at     86400   time step    -109.0 -3.77E-04 -3.17E-03  1.00E-01
+ solution at     86400   time step    -111.0 -4.97E-04 -3.01E-03  1.00E-01
+ solution at     86400   time step    -113.0 -6.05E-04 -2.86E-03  1.00E-01
+ solution at     86400   time step    -115.0 -7.02E-04 -2.70E-03  1.00E-01
+ solution at     86400   time step    -117.0 -7.87E-04 -2.55E-03  1.00E-01
+ solution at     86400   time step    -119.0 -8.62E-04 -2.40E-03  1.00E-01
+ solution at     86400   time step    -121.0 -9.26E-04 -2.25E-03  1.00E-01
+ solution at     86400   time step    -123.0 -9.82E-04 -2.11E-03  1.00E-01
+ solution at     86400   time step    -125.0 -1.03E-03 -1.97E-03  1.00E-01
+ solution at     86400   time step    -127.0 -1.07E-03 -1.84E-03  1.00E-01
+ solution at     86400   time step    -129.0 -1.10E-03 -1.71E-03  1.00E-01
+ solution at     86400   time step    -131.0 -1.12E-03 -1.58E-03  1.00E-01
+ solution at     86400   time step    -133.0 -1.14E-03 -1.46E-03  1.00E-01
+ solution at     86400   time step    -135.0 -1.15E-03 -1.34E-03  1.00E-01
+ solution at     86400   time step    -137.0 -1.16E-03 -1.23E-03  1.00E-01
+ solution at     86400   time step    -139.0 -1.16E-03 -1.13E-03  1.00E-01
+ solution at     86400   time step    -141.0 -1.16E-03 -1.03E-03  1.00E-01
+ solution at     86400   time step    -143.0 -1.15E-03 -9.30E-04  1.00E-01
+ solution at     86400   time step    -145.0 -1.14E-03 -8.38E-04  1.00E-01
+ solution at     86400   time step    -147.0 -1.12E-03 -7.50E-04  1.00E-01
+ solution at     86400   time step    -149.0 -1.10E-03 -6.68E-04  1.00E-01
+ solution at     86400   time step    -151.0 -1.08E-03 -5.90E-04  1.00E-01
+ solution at     86400   time step    -153.0 -1.06E-03 -5.16E-04  1.00E-01
+ solution at     86400   time step    -155.0 -1.03E-03 -4.47E-04  1.00E-01
+ solution at     86400   time step    -157.0 -1.00E-03 -3.82E-04  1.00E-01
+ solution at     86400   time step    -159.0 -9.75E-04 -3.21E-04  1.00E-01
+ solution at     86400   time step    -161.0 -9.45E-04 -2.64E-04  1.00E-01
+ solution at     86400   time step    -163.0 -9.14E-04 -2.11E-04  1.00E-01
+ solution at     86400   time step    -165.0 -8.81E-04 -1.62E-04  1.00E-01
+ solution at     86400   time step    -167.0 -8.48E-04 -1.16E-04  1.00E-01
+ solution at     86400   time step    -169.0 -8.15E-04 -7.41E-05  1.00E-01
+ solution at     86400   time step    -171.0 -7.81E-04 -3.54E-05  1.00E-01
+ solution at     86400   time step    -173.0 -7.47E-04  1.26E-07  1.00E-01
+ solution at     86400   time step    -175.0 -7.13E-04  3.25E-05  1.00E-01
+ solution at     86400   time step    -177.0 -6.80E-04  6.20E-05  1.00E-01
+ solution at     86400   time step    -179.0 -6.46E-04  8.86E-05  1.00E-01
+ solution at     86400   time step    -181.0 -6.13E-04  1.13E-04  1.00E-01
+ solution at     86400   time step    -183.0 -5.80E-04  1.34E-04  1.00E-01
+ solution at     86400   time step    -185.0 -5.48E-04  1.53E-04  1.00E-01
+ solution at     86400   time step    -187.0 -5.16E-04  1.70E-04  1.00E-01
+ solution at     86400   time step    -189.0 -4.86E-04  1.85E-04  1.00E-01
+ solution at     86400   time step    -191.0 -4.56E-04  1.97E-04  1.00E-01
+ solution at     86400   time step    -193.0 -4.26E-04  2.08E-04  1.00E-01
+ solution at     86400   time step    -195.0 -3.98E-04  2.17E-04  1.00E-01
+ solution at     86400   time step    -197.0 -3.71E-04  2.25E-04  1.00E-01
+ solution at     86400   time step    -199.0 -3.44E-04  2.30E-04  1.00E-01
+ solution at     86400   time step    -201.0 -3.18E-04  2.35E-04  1.00E-01
+ solution at     86400   time step    -203.0 -2.94E-04  2.38E-04  1.00E-01
+ solution at     86400   time step    -205.0 -2.70E-04  2.40E-04  1.00E-01
+ solution at     86400   time step    -207.0 -2.47E-04  2.41E-04  1.00E-01
+ solution at     86400   time step    -209.0 -2.26E-04  2.41E-04  1.00E-01
+ solution at     86400   time step    -211.0 -2.05E-04  2.39E-04  1.00E-01
+ solution at     86400   time step    -213.0 -1.85E-04  2.38E-04  1.00E-01
+ solution at     86400   time step    -215.0 -1.67E-04  2.35E-04  1.00E-01
+ solution at     86400   time step    -217.0 -1.49E-04  2.31E-04  1.00E-01
+ solution at     86400   time step    -219.0 -1.32E-04  2.27E-04  1.00E-01
+ solution at     86400   time step    -221.0 -1.16E-04  2.23E-04  1.00E-01
+ solution at     86400   time step    -223.0 -1.01E-04  2.18E-04  1.00E-01
+ solution at     86400   time step    -225.0 -8.73E-05  2.12E-04  1.00E-01
+ solution at     86400   time step    -227.0 -7.41E-05  2.06E-04  1.00E-01
+ solution at     86400   time step    -229.0 -6.18E-05  2.00E-04  1.00E-01
+ solution at     86400   time step    -231.0 -5.03E-05  1.94E-04  1.00E-01
+ solution at     86400   time step    -233.0 -3.96E-05  1.87E-04  1.00E-01
+ solution at     86400   time step    -235.0 -2.97E-05  1.80E-04  1.00E-01
+ solution at     86400   time step    -237.0 -2.05E-05  1.73E-04  1.00E-01
+ solution at     86400   time step    -239.0 -1.21E-05  1.66E-04  1.00E-01
+ solution at     86400   time step    -241.0 -4.31E-06  1.59E-04  1.00E-01
+ solution at     86400   time step    -243.0  2.80E-06  1.52E-04  1.00E-01
+ solution at     86400   time step    -245.0  9.29E-06  1.45E-04  1.00E-01
+ solution at     86400   time step    -247.0  1.52E-05  1.38E-04  1.00E-01
+ solution at     86400   time step    -249.0  2.05E-05  1.31E-04  1.00E-01
+ solution at     86400   time step    -251.0  2.53E-05  1.25E-04  1.00E-01
+ solution at     86400   time step    -253.0  2.95E-05  1.18E-04  1.00E-01
+ solution at     86400   time step    -255.0  3.33E-05  1.11E-04  1.00E-01
+ solution at     86400   time step    -257.0  3.66E-05  1.05E-04  1.00E-01
+ solution at     86400   time step    -259.0  3.95E-05  9.84E-05  1.00E-01
+ solution at     86400   time step    -261.0  4.20E-05  9.22E-05  1.00E-01
+ solution at     86400   time step    -263.0  4.40E-05  8.62E-05  1.00E-01
+ solution at     86400   time step    -265.0  4.58E-05  8.04E-05  1.00E-01
+ solution at     86400   time step    -267.0  4.72E-05  7.47E-05  1.00E-01
+ solution at     86400   time step    -269.0  4.83E-05  6.93E-05  1.00E-01
+ solution at     86400   time step    -271.0  4.91E-05  6.41E-05  1.00E-01
+ solution at     86400   time step    -273.0  4.97E-05  5.90E-05  1.00E-01
+ solution at     86400   time step    -275.0  5.00E-05  5.42E-05  1.00E-01
+ solution at     86400   time step    -277.0  5.00E-05  4.96E-05  1.00E-01
+ solution at     86400   time step    -279.0  4.99E-05  4.51E-05  1.00E-01
+ solution at     86400   time step    -281.0  4.96E-05  4.09E-05  1.00E-01
+ solution at     86400   time step    -283.0  4.91E-05  3.69E-05  1.00E-01
+ solution at     86400   time step    -285.0  4.85E-05  3.31E-05  1.00E-01
+ solution at     86400   time step    -287.0  4.77E-05  2.95E-05  1.00E-01
+ solution at     86400   time step    -289.0  4.69E-05  2.61E-05  1.00E-01
+ solution at     86400   time step    -291.0  4.59E-05  2.29E-05  1.00E-01
+ solution at     86400   time step    -293.0  4.48E-05  1.99E-05  1.00E-01
+ solution at     86400   time step    -295.0  4.36E-05  1.70E-05  1.00E-01
+ solution at     86400   time step    -297.0  4.24E-05  1.43E-05  1.00E-01
+ solution at     86400   time step    -299.0  4.11E-05  1.19E-05  1.00E-01
+ solution at     86400   time step    -301.0  3.97E-05  9.54E-06  1.00E-01
+ solution at     86400   time step    -303.0  3.83E-05  7.39E-06  1.00E-01
+ solution at     86400   time step    -305.0  3.69E-05  5.39E-06  1.00E-01
+ solution at     86400   time step    -307.0  3.55E-05  3.54E-06  1.00E-01
+ solution at     86400   time step    -309.0  3.40E-05  1.84E-06  1.00E-01
+ solution at     86400   time step    -311.0  3.25E-05  2.86E-07  1.00E-01
+ solution at     86400   time step    -313.0  3.11E-05 -1.14E-06  1.00E-01
+ solution at     86400   time step    -315.0  2.96E-05 -2.44E-06  1.00E-01
+ solution at     86400   time step    -317.0  2.82E-05 -3.61E-06  1.00E-01
+ solution at     86400   time step    -319.0  2.67E-05 -4.67E-06  1.00E-01
+ solution at     86400   time step    -321.0  2.53E-05 -5.61E-06  1.00E-01
+ solution at     86400   time step    -323.0  2.39E-05 -6.46E-06  1.00E-01
+ solution at     86400   time step    -325.0  2.26E-05 -7.20E-06  1.00E-01
+ solution at     86400   time step    -327.0  2.12E-05 -7.85E-06  1.00E-01
+ solution at     86400   time step    -329.0  1.99E-05 -8.42E-06  1.00E-01
+ solution at     86400   time step    -331.0  1.87E-05 -8.90E-06  1.00E-01
+ solution at     86400   time step    -333.0  1.74E-05 -9.31E-06  1.00E-01
+ solution at     86400   time step    -335.0  1.62E-05 -9.64E-06  1.00E-01
+ solution at     86400   time step    -337.0  1.51E-05 -9.90E-06  1.00E-01
+ solution at     86400   time step    -339.0  1.40E-05 -1.01E-05  1.00E-01
+ solution at     86400   time step    -341.0  1.29E-05 -1.03E-05  1.00E-01
+ solution at     86400   time step    -343.0  1.19E-05 -1.03E-05  1.00E-01
+ solution at     86400   time step    -345.0  1.09E-05 -1.04E-05  1.00E-01
+ solution at     86400   time step    -347.0  9.92E-06 -1.04E-05  1.00E-01
+ solution at     86400   time step    -349.0  9.02E-06 -1.04E-05  1.00E-01
+ solution at     86400   time step    -351.0  8.16E-06 -1.03E-05  1.00E-01
+ solution at     86400   time step    -353.0  7.35E-06 -1.02E-05  1.00E-01
+ solution at     86400   time step    -355.0  6.57E-06 -1.00E-05  1.00E-01
+ solution at     86400   time step    -357.0  5.84E-06 -9.85E-06  1.00E-01
+ solution at     86400   time step    -359.0  5.15E-06 -9.66E-06  1.00E-01
+ solution at     86400   time step    -361.0  4.50E-06 -9.44E-06  1.00E-01
+ solution at     86400   time step    -363.0  3.88E-06 -9.21E-06  1.00E-01
+ solution at     86400   time step    -365.0  3.31E-06 -8.96E-06  1.00E-01
+ solution at     86400   time step    -367.0  2.77E-06 -8.69E-06  1.00E-01
+ solution at     86400   time step    -369.0  2.27E-06 -8.42E-06  1.00E-01
+ solution at     86400   time step    -371.0  1.80E-06 -8.14E-06  1.00E-01
+ solution at     86400   time step    -373.0  1.36E-06 -7.84E-06  1.00E-01
+ solution at     86400   time step    -375.0  9.62E-07 -7.55E-06  1.00E-01
+ solution at     86400   time step    -377.0  5.91E-07 -7.25E-06  1.00E-01
+ solution at     86400   time step    -379.0  2.50E-07 -6.94E-06  1.00E-01
+ solution at     86400   time step    -381.0 -6.28E-08 -6.64E-06  1.00E-01
+ solution at     86400   time step    -383.0 -3.48E-07 -6.34E-06  1.00E-01
+ solution at     86400   time step    -385.0 -6.07E-07 -6.03E-06  1.00E-01
+ solution at     86400   time step    -387.0 -8.41E-07 -5.73E-06  1.00E-01
+ solution at     86400   time step    -389.0 -1.05E-06 -5.44E-06  1.00E-01
+ solution at     86400   time step    -391.0 -1.24E-06 -5.14E-06  1.00E-01
+ solution at     86400   time step    -393.0 -1.41E-06 -4.86E-06  1.00E-01
+ solution at     86400   time step    -395.0 -1.55E-06 -4.58E-06  1.00E-01
+ solution at     86400   time step    -397.0 -1.68E-06 -4.30E-06  1.00E-01
+ solution at     86400   time step    -399.0 -1.79E-06 -4.03E-06  1.00E-01
+ solution at     86400   time step    -401.0 -1.88E-06 -3.77E-06  1.00E-01
+ solution at     86400   time step    -403.0 -1.96E-06 -3.52E-06  1.00E-01
+ solution at     86400   time step    -405.0 -2.03E-06 -3.27E-06  1.00E-01
+ solution at     86400   time step    -407.0 -2.08E-06 -3.04E-06  1.00E-01
+ solution at     86400   time step    -409.0 -2.11E-06 -2.81E-06  1.00E-01
+ solution at     86400   time step    -411.0 -2.14E-06 -2.59E-06  1.00E-01
+ solution at     86400   time step    -413.0 -2.15E-06 -2.38E-06  1.00E-01
+ solution at     86400   time step    -415.0 -2.16E-06 -2.18E-06  1.00E-01
+ solution at     86400   time step    -417.0 -2.16E-06 -1.99E-06  1.00E-01
+ solution at     86400   time step    -419.0 -2.15E-06 -1.80E-06  1.00E-01
+ solution at     86400   time step    -421.0 -2.13E-06 -1.63E-06  1.00E-01
+ solution at     86400   time step    -423.0 -2.10E-06 -1.46E-06  1.00E-01
+ solution at     86400   time step    -425.0 -2.07E-06 -1.30E-06  1.00E-01
+ solution at     86400   time step    -427.0 -2.03E-06 -1.15E-06  1.00E-01
+ solution at     86400   time step    -429.0 -1.99E-06 -1.01E-06  1.00E-01
+ solution at     86400   time step    -431.0 -1.94E-06 -8.82E-07  1.00E-01
+ solution at     86400   time step    -433.0 -1.89E-06 -7.58E-07  1.00E-01
+ solution at     86400   time step    -435.0 -1.84E-06 -6.41E-07  1.00E-01
+ solution at     86400   time step    -437.0 -1.78E-06 -5.33E-07  1.00E-01
+ solution at     86400   time step    -439.0 -1.73E-06 -4.31E-07  1.00E-01
+ solution at     86400   time step    -441.0 -1.67E-06 -3.37E-07  1.00E-01
+ solution at     86400   time step    -443.0 -1.61E-06 -2.49E-07  1.00E-01
+ solution at     86400   time step    -445.0 -1.54E-06 -1.68E-07  1.00E-01
+ solution at     86400   time step    -447.0 -1.48E-06 -9.36E-08  1.00E-01
+ solution at     86400   time step    -449.0 -1.42E-06 -2.51E-08  1.00E-01
+ solution at     86400   time step    -451.0 -1.35E-06  3.75E-08  1.00E-01
+ solution at     86400   time step    -453.0 -1.29E-06  9.45E-08  1.00E-01
+ solution at     86400   time step    -455.0 -1.23E-06  1.46E-07  1.00E-01
+ solution at     86400   time step    -457.0 -1.17E-06  1.93E-07  1.00E-01
+ solution at     86400   time step    -459.0 -1.10E-06  2.35E-07  1.00E-01
+ solution at     86400   time step    -461.0 -1.04E-06  2.72E-07  1.00E-01
+ solution at     86400   time step    -463.0 -9.85E-07  3.05E-07  1.00E-01
+ solution at     86400   time step    -465.0 -9.27E-07  3.34E-07  1.00E-01
+ solution at     86400   time step    -467.0 -8.71E-07  3.59E-07  1.00E-01
+ solution at     86400   time step    -469.0 -8.16E-07  3.80E-07  1.00E-01
+ solution at     86400   time step    -471.0 -7.62E-07  3.98E-07  1.00E-01
+ solution at     86400   time step    -473.0 -7.10E-07  4.13E-07  1.00E-01
+ solution at     86400   time step    -475.0 -6.60E-07  4.25E-07  1.00E-01
+ solution at     86400   time step    -477.0 -6.12E-07  4.35E-07  1.00E-01
+ solution at     86400   time step    -479.0 -5.65E-07  4.42E-07  1.00E-01
+ solution at     86400   time step    -481.0 -5.20E-07  4.46E-07  1.00E-01
+ solution at     86400   time step    -483.0 -4.77E-07  4.48E-07  1.00E-01
+ solution at     86400   time step    -485.0 -4.36E-07  4.49E-07  1.00E-01
+ solution at     86400   time step    -487.0 -3.97E-07  4.47E-07  1.00E-01
+ solution at     86400   time step    -489.0 -3.60E-07  4.44E-07  1.00E-01
+ solution at     86400   time step    -491.0 -3.24E-07  4.40E-07  1.00E-01
+ solution at     86400   time step    -493.0 -2.90E-07  4.34E-07  1.00E-01
+ solution at     86400   time step    -495.0 -2.58E-07  4.27E-07  1.00E-01
+ solution at     86400   time step    -497.0 -2.28E-07  4.19E-07  1.00E-01
+ solution at     86400   time step    -499.0 -2.00E-07  4.09E-07  1.00E-01
+ solution at     86400   time step    -501.0 -1.73E-07  3.99E-07  1.00E-01
+ solution at     86400   time step    -503.0 -1.48E-07  3.89E-07  1.00E-01
+ solution at     86400   time step    -505.0 -1.24E-07  3.78E-07  1.00E-01
+ solution at     86400   time step    -507.0 -1.02E-07  3.66E-07  1.00E-01
+ solution at     86400   time step    -509.0 -8.15E-08  3.54E-07  1.00E-01
+ solution at     86400   time step    -511.0 -6.25E-08  3.41E-07  1.00E-01
+ solution at     86400   time step    -513.0 -4.48E-08  3.28E-07  1.00E-01
+ solution at     86400   time step    -515.0 -2.86E-08  3.15E-07  1.00E-01
+ solution at     86400   time step    -517.0 -1.36E-08  3.02E-07  1.00E-01
+ solution at     86400   time step    -519.0  1.44E-10  2.89E-07  1.00E-01
+ solution at     86400   time step    -521.0  1.27E-08  2.76E-07  1.00E-01
+ solution at     86400   time step    -523.0  2.41E-08  2.63E-07  1.00E-01
+ solution at     86400   time step    -525.0  3.44E-08  2.50E-07  1.00E-01
+ solution at     86400   time step    -527.0  4.37E-08  2.37E-07  1.00E-01
+ solution at     86400   time step    -529.0  5.20E-08  2.25E-07  1.00E-01
+ solution at     86400   time step    -531.0  5.94E-08  2.12E-07  1.00E-01
+ solution at     86400   time step    -533.0  6.59E-08  2.00E-07  1.00E-01
+ solution at     86400   time step    -535.0  7.15E-08  1.88E-07  1.00E-01
+ solution at     86400   time step    -537.0  7.64E-08  1.76E-07  1.00E-01
+ solution at     86400   time step    -539.0  8.06E-08  1.65E-07  1.00E-01
+ solution at     86400   time step    -541.0  8.41E-08  1.54E-07  1.00E-01
+ solution at     86400   time step    -543.0  8.70E-08  1.43E-07  1.00E-01
+ solution at     86400   time step    -545.0  8.92E-08  1.33E-07  1.00E-01
+ solution at     86400   time step    -547.0  9.10E-08  1.23E-07  1.00E-01
+ solution at     86400   time step    -549.0  9.22E-08  1.14E-07  1.00E-01
+ solution at     86400   time step    -551.0  9.29E-08  1.04E-07  1.00E-01
+ solution at     86400   time step    -553.0  9.32E-08  9.57E-08  1.00E-01
+ solution at     86400   time step    -555.0  9.32E-08  8.73E-08  1.00E-01
+ solution at     86400   time step    -557.0  9.27E-08  7.93E-08  1.00E-01
+ solution at     86400   time step    -559.0  9.20E-08  7.17E-08  1.00E-01
+ solution at     86400   time step    -561.0  9.09E-08  6.45E-08  1.00E-01
+ solution at     86400   time step    -563.0  8.96E-08  5.76E-08  1.00E-01
+ solution at     86400   time step    -565.0  8.80E-08  5.11E-08  1.00E-01
+ solution at     86400   time step    -567.0  8.62E-08  4.50E-08  1.00E-01
+ solution at     86400   time step    -569.0  8.42E-08  3.92E-08  1.00E-01
+ solution at     86400   time step    -571.0  8.21E-08  3.37E-08  1.00E-01
+ solution at     86400   time step    -573.0  7.99E-08  2.87E-08  1.00E-01
+ solution at     86400   time step    -575.0  7.75E-08  2.39E-08  1.00E-01
+ solution at     86400   time step    -577.0  7.50E-08  1.94E-08  1.00E-01
+ solution at     86400   time step    -579.0  7.24E-08  1.53E-08  1.00E-01
+ solution at     86400   time step    -581.0  6.98E-08  1.15E-08  1.00E-01
+ solution at     86400   time step    -583.0  6.71E-08  7.93E-09  1.00E-01
+ solution at     86400   time step    -585.0  6.44E-08  4.65E-09  1.00E-01
+ solution at     86400   time step    -587.0  6.17E-08  1.65E-09  1.00E-01
+ solution at     86400   time step    -589.0  5.90E-08 -1.10E-09  1.00E-01
+ solution at     86400   time step    -591.0  5.63E-08 -3.61E-09  1.00E-01
+ solution at     86400   time step    -593.0  5.35E-08 -5.89E-09  1.00E-01
+ solution at     86400   time step    -595.0  5.09E-08 -7.94E-09  1.00E-01
+ solution at     86400   time step    -597.0  4.82E-08 -9.79E-09  1.00E-01
+ solution at     86400   time step    -599.0  4.56E-08 -1.14E-08  1.00E-01
+ solution at     86400   time step    -601.0  4.30E-08 -1.29E-08  1.00E-01
+ solution at     86400   time step    -603.0  4.05E-08 -1.42E-08  1.00E-01
+ solution at     86400   time step    -605.0  3.81E-08 -1.53E-08  1.00E-01
+ solution at     86400   time step    -607.0  3.57E-08 -1.62E-08  1.00E-01
+ solution at     86400   time step    -609.0  3.33E-08 -1.71E-08  1.00E-01
+ solution at     86400   time step    -611.0  3.11E-08 -1.77E-08  1.00E-01
+ solution at     86400   time step    -613.0  2.89E-08 -1.83E-08  1.00E-01
+ solution at     86400   time step    -615.0  2.68E-08 -1.87E-08  1.00E-01
+ solution at     86400   time step    -617.0  2.48E-08 -1.90E-08  1.00E-01
+ solution at     86400   time step    -619.0  2.28E-08 -1.92E-08  1.00E-01
+ solution at     86400   time step    -621.0  2.10E-08 -1.93E-08  1.00E-01
+ solution at     86400   time step    -623.0  1.92E-08 -1.94E-08  1.00E-01
+ solution at     86400   time step    -625.0  1.75E-08 -1.93E-08  1.00E-01
+ solution at     86400   time step    -627.0  1.58E-08 -1.92E-08  1.00E-01
+ solution at     86400   time step    -629.0  1.43E-08 -1.90E-08  1.00E-01
+ solution at     86400   time step    -631.0  1.28E-08 -1.88E-08  1.00E-01
+ solution at     86400   time step    -633.0  1.14E-08 -1.85E-08  1.00E-01
+ solution at     86400   time step    -635.0  1.01E-08 -1.81E-08  1.00E-01
+ solution at     86400   time step    -637.0  8.84E-09 -1.78E-08  1.00E-01
+ solution at     86400   time step    -639.0  7.67E-09 -1.73E-08  1.00E-01
+ solution at     86400   time step    -641.0  6.57E-09 -1.69E-08  1.00E-01
+ solution at     86400   time step    -643.0  5.54E-09 -1.64E-08  1.00E-01
+ solution at     86400   time step    -645.0  4.58E-09 -1.59E-08  1.00E-01
+ solution at     86400   time step    -647.0  3.68E-09 -1.54E-08  1.00E-01
+ solution at     86400   time step    -649.0  2.85E-09 -1.48E-08  1.00E-01
+ solution at     86400   time step    -651.0  2.08E-09 -1.43E-08  1.00E-01
+ solution at     86400   time step    -653.0  1.36E-09 -1.37E-08  1.00E-01
+ solution at     86400   time step    -655.0  7.05E-10 -1.32E-08  1.00E-01
+ solution at     86400   time step    -657.0  1.03E-10 -1.26E-08  1.00E-01
+ solution at     86400   time step    -659.0 -4.48E-10 -1.20E-08  1.00E-01
+ solution at     86400   time step    -661.0 -9.48E-10 -1.15E-08  1.00E-01
+ solution at     86400   time step    -663.0 -1.40E-09 -1.09E-08  1.00E-01
+ solution at     86400   time step    -665.0 -1.81E-09 -1.04E-08  1.00E-01
+ solution at     86400   time step    -667.0 -2.18E-09 -9.82E-09  1.00E-01
+ solution at     86400   time step    -669.0 -2.50E-09 -9.28E-09  1.00E-01
+ solution at     86400   time step    -671.0 -2.79E-09 -8.76E-09  1.00E-01
+ solution at     86400   time step    -673.0 -3.04E-09 -8.24E-09  1.00E-01
+ solution at     86400   time step    -675.0 -3.25E-09 -7.74E-09  1.00E-01
+ solution at     86400   time step    -677.0 -3.44E-09 -7.25E-09  1.00E-01
+ solution at     86400   time step    -679.0 -3.59E-09 -6.77E-09  1.00E-01
+ solution at     86400   time step    -681.0 -3.72E-09 -6.31E-09  1.00E-01
+ solution at     86400   time step    -683.0 -3.82E-09 -5.86E-09  1.00E-01
+ solution at     86400   time step    -685.0 -3.90E-09 -5.43E-09  1.00E-01
+ solution at     86400   time step    -687.0 -3.95E-09 -5.02E-09  1.00E-01
+ solution at     86400   time step    -689.0 -3.99E-09 -4.62E-09  1.00E-01
+ solution at     86400   time step    -691.0 -4.00E-09 -4.24E-09  1.00E-01
+ solution at     86400   time step    -693.0 -4.00E-09 -3.87E-09  1.00E-01
+ solution at     86400   time step    -695.0 -3.98E-09 -3.53E-09  1.00E-01
+ solution at     86400   time step    -697.0 -3.95E-09 -3.19E-09  1.00E-01
+ solution at     86400   time step    -699.0 -3.90E-09 -2.88E-09  1.00E-01
+ solution at     86400   time step    -701.0 -3.84E-09 -2.58E-09  1.00E-01
+ solution at     86400   time step    -703.0 -3.77E-09 -2.30E-09  1.00E-01
+ solution at     86400   time step    -705.0 -3.69E-09 -2.03E-09  1.00E-01
+ solution at     86400   time step    -707.0 -3.61E-09 -1.77E-09  1.00E-01
+ solution at     86400   time step    -709.0 -3.51E-09 -1.54E-09  1.00E-01
+ solution at     86400   time step    -711.0 -3.41E-09 -1.31E-09  1.00E-01
+ solution at     86400   time step    -713.0 -3.31E-09 -1.10E-09  1.00E-01
+ solution at     86400   time step    -715.0 -3.20E-09 -9.07E-10  1.00E-01
+ solution at     86400   time step    -717.0 -3.08E-09 -7.25E-10  1.00E-01
+ solution at     86400   time step    -719.0 -2.96E-09 -5.55E-10  1.00E-01
+ solution at     86400   time step    -721.0 -2.84E-09 -3.97E-10  1.00E-01
+ solution at     86400   time step    -723.0 -2.72E-09 -2.51E-10  1.00E-01
+ solution at     86400   time step    -725.0 -2.60E-09 -1.16E-10  1.00E-01
+ solution at     86400   time step    -727.0 -2.48E-09  8.15E-12  1.00E-01
+ solution at     86400   time step    -729.0 -2.36E-09  1.22E-10  1.00E-01
+ solution at     86400   time step    -731.0 -2.23E-09  2.26E-10  1.00E-01
+ solution at     86400   time step    -733.0 -2.11E-09  3.21E-10  1.00E-01
+ solution at     86400   time step    -735.0 -1.99E-09  4.07E-10  1.00E-01
+ solution at     86400   time step    -737.0 -1.87E-09  4.86E-10  1.00E-01
+ solution at     86400   time step    -739.0 -1.76E-09  5.56E-10  1.00E-01
+ solution at     86400   time step    -741.0 -1.64E-09  6.19E-10  1.00E-01
+ solution at     86400   time step    -743.0 -1.53E-09  6.75E-10  1.00E-01
+ solution at     86400   time step    -745.0 -1.42E-09  7.25E-10  1.00E-01
+ solution at     86400   time step    -747.0 -1.32E-09  7.69E-10  1.00E-01
+ solution at     86400   time step    -749.0 -1.22E-09  8.08E-10  1.00E-01
+ solution at     86400   time step    -751.0 -1.12E-09  8.42E-10  1.00E-01
+ solution at     86400   time step    -753.0 -1.02E-09  8.71E-10  1.00E-01
+ solution at     86400   time step    -755.0 -9.29E-10  8.96E-10  1.00E-01
+ solution at     86400   time step    -757.0 -8.40E-10  9.17E-10  1.00E-01
+ solution at     86400   time step    -759.0 -7.56E-10  9.34E-10  1.00E-01
+ solution at     86400   time step    -761.0 -6.75E-10  9.49E-10  1.00E-01
+ solution at     86400   time step    -763.0 -5.98E-10  9.60E-10  1.00E-01
+ solution at     86400   time step    -765.0 -5.25E-10  9.70E-10  1.00E-01
+ solution at     86400   time step    -767.0 -4.56E-10  9.77E-10  1.00E-01
+ solution at     86400   time step    -769.0 -3.92E-10  9.82E-10  1.00E-01
+ solution at     86400   time step    -771.0 -3.31E-10  9.85E-10  1.00E-01
+ solution at     86400   time step    -773.0 -2.74E-10  9.87E-10  1.00E-01
+ solution at     86400   time step    -775.0 -2.21E-10  9.88E-10  1.00E-01
+ solution at     86400   time step    -777.0 -1.73E-10  9.89E-10  1.00E-01
+ solution at     86400   time step    -779.0 -1.28E-10  9.88E-10  1.00E-01
+ solution at     86400   time step    -781.0 -8.79E-11  9.87E-10  1.00E-01
+ solution at     86400   time step    -783.0 -5.16E-11  9.85E-10  1.00E-01
+ solution at     86400   time step    -785.0 -1.93E-11  9.84E-10  1.00E-01
+ solution at     86400   time step    -787.0  8.92E-12  9.82E-10  1.00E-01
+ solution at     86400   time step    -789.0  3.31E-11  9.80E-10  1.00E-01
+ solution at     86400   time step    -791.0  5.32E-11  9.79E-10  1.00E-01
+ solution at     86400   time step    -793.0  6.93E-11  9.77E-10  1.00E-01
+ solution at     86400   time step    -795.0  8.14E-11  9.76E-10  1.00E-01
+ solution at     86400   time step    -797.0  8.94E-11  9.75E-10  1.00E-01
+ solution at     86400   time step    -799.0  9.35E-11  9.75E-10  1.00E-01
+  analytical solution values   
+  parameters of the analytical solution
+  meridional wind stress amplitude   0.12500001    
+  vertical mixing coefficient   0.10000000    
+  density constant value    1025.0000    
+  e-folding EKMAN depth     44.044708    
+  velocity amplitude      3.79805081E-02
+  depth      u         v      UDIFF    VDIFF
+    -1.0  2.68E-02  2.57E-02 -3.73E-09 -3.19E-07
+    -3.0  2.67E-02  2.33E-02  3.76E-07 -3.28E-07
+    -5.0  2.65E-02  2.11E-02  7.15E-07 -3.73E-07
+    -7.0  2.62E-02  1.90E-02  1.02E-06 -4.43E-07
+    -9.0  2.59E-02  1.70E-02  1.30E-06 -5.36E-07
+   -11.0  2.54E-02  1.51E-02  1.53E-06 -6.49E-07
+   -13.0  2.49E-02  1.33E-02  1.74E-06 -7.77E-07
+   -15.0  2.44E-02  1.16E-02  1.91E-06 -9.17E-07
+   -17.0  2.38E-02  1.00E-02  2.04E-06 -1.07E-06
+   -19.0  2.31E-02  8.55E-03  2.16E-06 -1.22E-06
+   -21.0  2.25E-02  7.16E-03  2.24E-06 -1.38E-06
+   -23.0  2.18E-02  5.86E-03  2.30E-06 -1.54E-06
+   -25.0  2.10E-02  4.65E-03  2.34E-06 -1.70E-06
+   -27.0  2.03E-02  3.53E-03  2.35E-06 -1.85E-06
+   -29.0  1.95E-02  2.49E-03  2.33E-06 -2.00E-06
+   -31.0  1.87E-02  1.53E-03  2.30E-06 -2.15E-06
+   -33.0  1.79E-02  6.49E-04  2.25E-06 -2.28E-06
+   -35.0  1.72E-02 -1.59E-04  2.18E-06 -2.41E-06
+   -37.0  1.64E-02 -8.96E-04  2.10E-06 -2.53E-06
+   -39.0  1.56E-02 -1.57E-03  2.01E-06 -2.64E-06
+   -41.0  1.48E-02 -2.17E-03  1.90E-06 -2.74E-06
+   -43.0  1.40E-02 -2.71E-03  1.79E-06 -2.83E-06
+   -45.0  1.33E-02 -3.20E-03  1.67E-06 -2.91E-06
+   -47.0  1.26E-02 -3.63E-03  1.53E-06 -2.97E-06
+   -49.0  1.18E-02 -4.01E-03  1.40E-06 -3.02E-06
+   -51.0  1.11E-02 -4.34E-03  1.25E-06 -3.07E-06
+   -53.0  1.04E-02 -4.63E-03  1.11E-06 -3.10E-06
+   -55.0  9.75E-03 -4.87E-03  9.63E-07 -3.12E-06
+   -57.0  9.09E-03 -5.07E-03  8.15E-07 -3.13E-06
+   -59.0  8.46E-03 -5.24E-03  6.68E-07 -3.12E-06
+   -61.0  7.85E-03 -5.37E-03  5.20E-07 -3.11E-06
+   -63.0  7.26E-03 -5.46E-03  3.75E-07 -3.09E-06
+   -65.0  6.69E-03 -5.53E-03  2.34E-07 -3.06E-06
+   -67.0  6.15E-03 -5.57E-03  9.69E-08 -3.02E-06
+   -69.0  5.63E-03 -5.58E-03 -3.91E-08 -2.97E-06
+   -71.0  5.13E-03 -5.57E-03 -1.70E-07 -2.92E-06
+   -73.0  4.66E-03 -5.54E-03 -2.95E-07 -2.86E-06
+   -75.0  4.21E-03 -5.49E-03 -4.15E-07 -2.79E-06
+   -77.0  3.78E-03 -5.43E-03 -5.30E-07 -2.71E-06
+   -79.0  3.37E-03 -5.34E-03 -6.40E-07 -2.63E-06
+   -81.0  2.99E-03 -5.25E-03 -7.42E-07 -2.55E-06
+   -83.0  2.62E-03 -5.14E-03 -8.38E-07 -2.46E-06
+   -85.0  2.28E-03 -5.02E-03 -9.28E-07 -2.37E-06
+   -87.0  1.96E-03 -4.89E-03 -1.01E-06 -2.27E-06
+   -89.0  1.66E-03 -4.75E-03 -1.09E-06 -2.18E-06
+   -91.0  1.38E-03 -4.61E-03 -1.16E-06 -2.08E-06
+   -93.0  1.11E-03 -4.46E-03 -1.22E-06 -1.97E-06
+   -95.0  8.70E-04 -4.31E-03 -1.28E-06 -1.87E-06
+   -97.0  6.44E-04 -4.15E-03 -1.33E-06 -1.77E-06
+   -99.0  4.34E-04 -3.99E-03 -1.37E-06 -1.66E-06
+  -101.0  2.42E-04 -3.83E-03 -1.41E-06 -1.56E-06
+  -103.0  6.47E-05 -3.66E-03 -1.44E-06 -1.46E-06
+  -105.0 -9.71E-05 -3.50E-03 -1.46E-06 -1.36E-06
+  -107.0 -2.45E-04 -3.34E-03 -1.48E-06 -1.25E-06
+  -109.0 -3.78E-04 -3.17E-03 -1.50E-06 -1.15E-06
+  -111.0 -4.99E-04 -3.01E-03 -1.51E-06 -1.06E-06
+  -113.0 -6.07E-04 -2.86E-03 -1.51E-06 -9.59E-07
+  -115.0 -7.03E-04 -2.70E-03 -1.51E-06 -8.66E-07
+  -117.0 -7.88E-04 -2.55E-03 -1.51E-06 -7.75E-07
+  -119.0 -8.63E-04 -2.40E-03 -1.50E-06 -6.86E-07
+  -121.0 -9.28E-04 -2.25E-03 -1.48E-06 -6.00E-07
+  -123.0 -9.84E-04 -2.11E-03 -1.46E-06 -5.18E-07
+  -125.0 -1.03E-03 -1.97E-03 -1.44E-06 -4.38E-07
+  -127.0 -1.07E-03 -1.84E-03 -1.42E-06 -3.61E-07
+  -129.0 -1.10E-03 -1.71E-03 -1.39E-06 -2.88E-07
+  -131.0 -1.12E-03 -1.58E-03 -1.36E-06 -2.18E-07
+  -133.0 -1.14E-03 -1.46E-03 -1.33E-06 -1.52E-07
+  -135.0 -1.15E-03 -1.34E-03 -1.29E-06 -8.92E-08
+  -137.0 -1.16E-03 -1.23E-03 -1.26E-06 -2.92E-08
+  -139.0 -1.16E-03 -1.13E-03 -1.22E-06  2.72E-08
+  -141.0 -1.16E-03 -1.03E-03 -1.18E-06  8.00E-08
+  -143.0 -1.15E-03 -9.29E-04 -1.14E-06  1.29E-07
+  -145.0 -1.14E-03 -8.37E-04 -1.10E-06  1.75E-07
+  -147.0 -1.12E-03 -7.50E-04 -1.05E-06  2.17E-07
+  -149.0 -1.10E-03 -6.67E-04 -1.01E-06  2.56E-07
+  -151.0 -1.08E-03 -5.89E-04 -9.66E-07  2.92E-07
+  -153.0 -1.06E-03 -5.16E-04 -9.21E-07  3.25E-07
+  -155.0 -1.03E-03 -4.46E-04 -8.77E-07  3.55E-07
+  -157.0 -1.01E-03 -3.81E-04 -8.33E-07  3.82E-07
+  -159.0 -9.76E-04 -3.20E-04 -7.88E-07  4.05E-07
+  -161.0 -9.46E-04 -2.63E-04 -7.44E-07  4.26E-07
+  -163.0 -9.14E-04 -2.10E-04 -7.00E-07  4.44E-07
+  -165.0 -8.82E-04 -1.61E-04 -6.57E-07  4.60E-07
+  -167.0 -8.49E-04 -1.16E-04 -6.15E-07  4.74E-07
+  -169.0 -8.15E-04 -7.36E-05 -5.73E-07  4.84E-07
+  -171.0 -7.82E-04 -3.49E-05 -5.33E-07  4.93E-07
+  -173.0 -7.48E-04  6.26E-07 -4.93E-07  4.99E-07
+  -175.0 -7.14E-04  3.30E-05 -4.54E-07  5.04E-07
+  -177.0 -6.80E-04  6.25E-05 -4.16E-07  5.06E-07
+  -179.0 -6.46E-04  8.92E-05 -3.80E-07  5.07E-07
+  -181.0 -6.13E-04  1.13E-04 -3.44E-07  5.06E-07
+  -183.0 -5.80E-04  1.35E-04 -3.10E-07  5.03E-07
+  -185.0 -5.48E-04  1.54E-04 -2.77E-07  4.99E-07
+  -187.0 -5.17E-04  1.70E-04 -2.45E-07  4.94E-07
+  -189.0 -4.86E-04  1.85E-04 -2.15E-07  4.87E-07
+  -191.0 -4.56E-04  1.98E-04 -1.86E-07  4.80E-07
+  -193.0 -4.27E-04  2.09E-04 -1.59E-07  4.71E-07
+  -195.0 -3.98E-04  2.18E-04 -1.32E-07  4.61E-07
+  -197.0 -3.71E-04  2.25E-04 -1.08E-07  4.51E-07
+  -199.0 -3.44E-04  2.31E-04 -8.38E-08  4.39E-07
+  -201.0 -3.18E-04  2.35E-04 -6.17E-08  4.27E-07
+  -203.0 -2.94E-04  2.38E-04 -4.09E-08  4.15E-07
+  -205.0 -2.70E-04  2.40E-04 -2.12E-08  4.02E-07
+  -207.0 -2.47E-04  2.41E-04 -2.82E-09  3.88E-07
+  -209.0 -2.26E-04  2.41E-04  1.42E-08  3.74E-07
+  -211.0 -2.05E-04  2.40E-04  3.00E-08  3.60E-07
+  -213.0 -1.85E-04  2.38E-04  4.47E-08  3.46E-07
+  -215.0 -1.67E-04  2.35E-04  5.82E-08  3.31E-07
+  -217.0 -1.49E-04  2.32E-04  7.05E-08  3.16E-07
+  -219.0 -1.32E-04  2.28E-04  8.17E-08  3.02E-07
+  -221.0 -1.16E-04  2.23E-04  9.19E-08  2.87E-07
+  -223.0 -1.01E-04  2.18E-04  1.01E-07  2.73E-07
+  -225.0 -8.72E-05  2.12E-04  1.09E-07  2.58E-07
+  -227.0 -7.40E-05  2.07E-04  1.17E-07  2.44E-07
+  -229.0 -6.17E-05  2.00E-04  1.23E-07  2.30E-07
+  -231.0 -5.02E-05  1.94E-04  1.28E-07  2.16E-07
+  -233.0 -3.95E-05  1.87E-04  1.33E-07  2.02E-07
+  -235.0 -2.96E-05  1.81E-04  1.37E-07  1.89E-07
+  -237.0 -2.04E-05  1.74E-04  1.40E-07  1.76E-07
+  -239.0 -1.19E-05  1.67E-04  1.42E-07  1.63E-07
+  -241.0 -4.16E-06  1.60E-04  1.44E-07  1.51E-07
+  -243.0  2.95E-06  1.53E-04  1.45E-07  1.39E-07
+  -245.0  9.43E-06  1.46E-04  1.46E-07  1.27E-07
+  -247.0  1.53E-05  1.38E-04  1.46E-07  1.16E-07
+  -249.0  2.06E-05  1.32E-04  1.46E-07  1.05E-07
+  -251.0  2.54E-05  1.25E-04  1.45E-07  9.50E-08
+  -253.0  2.97E-05  1.18E-04  1.43E-07  8.50E-08
+  -255.0  3.34E-05  1.11E-04  1.42E-07  7.55E-08
+  -257.0  3.67E-05  1.05E-04  1.40E-07  6.65E-08
+  -259.0  3.96E-05  9.84E-05  1.37E-07  5.80E-08
+  -261.0  4.21E-05  9.22E-05  1.35E-07  4.97E-08
+  -263.0  4.42E-05  8.62E-05  1.32E-07  4.19E-08
+  -265.0  4.59E-05  8.04E-05  1.28E-07  3.46E-08
+  -267.0  4.73E-05  7.48E-05  1.25E-07  2.76E-08
+  -269.0  4.84E-05  6.93E-05  1.22E-07  2.12E-08
+  -271.0  4.92E-05  6.41E-05  1.18E-07  1.51E-08
+  -273.0  4.98E-05  5.90E-05  1.14E-07  9.34E-09
+  -275.0  5.01E-05  5.42E-05  1.10E-07  4.02E-09
+  -277.0  5.02E-05  4.96E-05  1.06E-07 -9.28E-10
+  -279.0  5.00E-05  4.51E-05  1.02E-07 -5.54E-09
+  -281.0  4.97E-05  4.09E-05  9.76E-08 -9.78E-09
+  -283.0  4.92E-05  3.69E-05  9.34E-08 -1.36E-08
+  -285.0  4.86E-05  3.31E-05  8.92E-08 -1.72E-08
+  -287.0  4.78E-05  2.95E-05  8.50E-08 -2.04E-08
+  -289.0  4.69E-05  2.61E-05  8.08E-08 -2.33E-08
+  -291.0  4.59E-05  2.29E-05  7.67E-08 -2.60E-08
+  -293.0  4.48E-05  1.98E-05  7.25E-08 -2.83E-08
+  -295.0  4.37E-05  1.70E-05  6.85E-08 -3.03E-08
+  -297.0  4.24E-05  1.43E-05  6.45E-08 -3.22E-08
+  -299.0  4.11E-05  1.18E-05  6.06E-08 -3.37E-08
+  -301.0  3.98E-05  9.51E-06  5.67E-08 -3.51E-08
+  -303.0  3.84E-05  7.35E-06  5.30E-08 -3.62E-08
+  -305.0  3.70E-05  5.35E-06  4.93E-08 -3.71E-08
+  -307.0  3.55E-05  3.51E-06  4.58E-08 -3.78E-08
+  -309.0  3.40E-05  1.81E-06  4.24E-08 -3.83E-08
+  -311.0  3.26E-05  2.47E-07  3.90E-08 -3.87E-08
+  -313.0  3.11E-05 -1.18E-06  3.58E-08 -3.88E-08
+  -315.0  2.97E-05 -2.47E-06  3.27E-08 -3.89E-08
+  -317.0  2.82E-05 -3.65E-06  2.97E-08 -3.88E-08
+  -319.0  2.68E-05 -4.71E-06  2.69E-08 -3.85E-08
+  -321.0  2.53E-05 -5.65E-06  2.41E-08 -3.82E-08
+  -323.0  2.39E-05 -6.50E-06  2.15E-08 -3.77E-08
+  -325.0  2.26E-05 -7.24E-06  1.90E-08 -3.72E-08
+  -327.0  2.12E-05 -7.89E-06  1.67E-08 -3.66E-08
+  -329.0  1.99E-05 -8.45E-06  1.44E-08 -3.58E-08
+  -331.0  1.87E-05 -8.94E-06  1.23E-08 -3.50E-08
+  -333.0  1.74E-05 -9.34E-06  1.03E-08 -3.42E-08
+  -335.0  1.62E-05 -9.67E-06  8.36E-09 -3.33E-08
+  -337.0  1.51E-05 -9.94E-06  6.57E-09 -3.23E-08
+  -339.0  1.40E-05 -1.01E-05  4.90E-09 -3.13E-08
+  -341.0  1.29E-05 -1.03E-05  3.33E-09 -3.03E-08
+  -343.0  1.19E-05 -1.04E-05  1.88E-09 -2.92E-08
+  -345.0  1.09E-05 -1.04E-05  5.29E-10 -2.81E-08
+  -347.0  9.92E-06 -1.04E-05 -7.11E-10 -2.71E-08
+  -349.0  9.02E-06 -1.04E-05 -1.87E-09 -2.59E-08
+  -351.0  8.16E-06 -1.03E-05 -2.93E-09 -2.48E-08
+  -353.0  7.34E-06 -1.02E-05 -3.89E-09 -2.37E-08
+  -355.0  6.57E-06 -1.00E-05 -4.77E-09 -2.26E-08
+  -357.0  5.84E-06 -9.87E-06 -5.57E-09 -2.15E-08
+  -359.0  5.14E-06 -9.68E-06 -6.28E-09 -2.04E-08
+  -361.0  4.49E-06 -9.46E-06 -6.92E-09 -1.93E-08
+  -363.0  3.88E-06 -9.23E-06 -7.48E-09 -1.82E-08
+  -365.0  3.30E-06 -8.97E-06 -7.97E-09 -1.71E-08
+  -367.0  2.76E-06 -8.71E-06 -8.40E-09 -1.61E-08
+  -369.0  2.26E-06 -8.43E-06 -8.76E-09 -1.51E-08
+  -371.0  1.79E-06 -8.15E-06 -9.07E-09 -1.41E-08
+  -373.0  1.35E-06 -7.86E-06 -9.33E-09 -1.31E-08
+  -375.0  9.52E-07 -7.56E-06 -9.52E-09 -1.22E-08
+  -377.0  5.81E-07 -7.26E-06 -9.67E-09 -1.13E-08
+  -379.0  2.40E-07 -6.95E-06 -9.78E-09 -1.04E-08
+  -381.0 -7.26E-08 -6.65E-06 -9.84E-09 -9.58E-09
+  -383.0 -3.58E-07 -6.34E-06 -9.86E-09 -8.77E-09
+  -385.0 -6.17E-07 -6.04E-06 -9.85E-09 -7.98E-09
+  -387.0 -8.51E-07 -5.74E-06 -9.80E-09 -7.23E-09
+  -389.0 -1.06E-06 -5.44E-06 -9.71E-09 -6.51E-09
+  -391.0 -1.25E-06 -5.15E-06 -9.60E-09 -5.82E-09
+  -393.0 -1.42E-06 -4.86E-06 -9.47E-09 -5.17E-09
+  -395.0 -1.56E-06 -4.58E-06 -9.31E-09 -4.55E-09
+  -397.0 -1.69E-06 -4.30E-06 -9.13E-09 -3.95E-09
+  -399.0 -1.80E-06 -4.04E-06 -8.94E-09 -3.40E-09
+  -401.0 -1.89E-06 -3.77E-06 -8.73E-09 -2.87E-09
+  -403.0 -1.97E-06 -3.52E-06 -8.49E-09 -2.37E-09
+  -405.0 -2.03E-06 -3.28E-06 -8.26E-09 -1.91E-09
+  -407.0 -2.08E-06 -3.04E-06 -8.00E-09 -1.47E-09
+  -409.0 -2.12E-06 -2.81E-06 -7.74E-09 -1.06E-09
+  -411.0 -2.15E-06 -2.59E-06 -7.48E-09 -6.83E-10
+  -413.0 -2.16E-06 -2.38E-06 -7.20E-09 -3.26E-10
+  -415.0 -2.17E-06 -2.18E-06 -6.92E-09 -6.82E-13
+  -417.0 -2.16E-06 -1.99E-06 -6.64E-09  3.00E-10
+  -419.0 -2.15E-06 -1.80E-06 -6.36E-09  5.81E-10
+  -421.0 -2.13E-06 -1.63E-06 -6.08E-09  8.32E-10
+  -423.0 -2.11E-06 -1.46E-06 -5.79E-09  1.06E-09
+  -425.0 -2.07E-06 -1.30E-06 -5.51E-09  1.27E-09
+  -427.0 -2.04E-06 -1.15E-06 -5.23E-09  1.46E-09
+  -429.0 -1.99E-06 -1.01E-06 -4.95E-09  1.63E-09
+  -431.0 -1.95E-06 -8.80E-07 -4.68E-09  1.78E-09
+  -433.0 -1.90E-06 -7.56E-07 -4.41E-09  1.91E-09
+  -435.0 -1.84E-06 -6.39E-07 -4.15E-09  2.02E-09
+  -437.0 -1.79E-06 -5.30E-07 -3.89E-09  2.12E-09
+  -439.0 -1.73E-06 -4.29E-07 -3.64E-09  2.20E-09
+  -441.0 -1.67E-06 -3.34E-07 -3.39E-09  2.27E-09
+  -443.0 -1.61E-06 -2.47E-07 -3.16E-09  2.33E-09
+  -445.0 -1.55E-06 -1.66E-07 -2.92E-09  2.37E-09
+  -447.0 -1.48E-06 -9.12E-08 -2.70E-09  2.40E-09
+  -449.0 -1.42E-06 -2.27E-08 -2.49E-09  2.42E-09
+  -451.0 -1.36E-06  3.99E-08 -2.28E-09  2.43E-09
+  -453.0 -1.29E-06  9.69E-08 -2.08E-09  2.43E-09
+  -455.0 -1.23E-06  1.49E-07 -1.89E-09  2.42E-09
+  -457.0 -1.17E-06  1.95E-07 -1.71E-09  2.40E-09
+  -459.0 -1.11E-06  2.37E-07 -1.53E-09  2.38E-09
+  -461.0 -1.05E-06  2.74E-07 -1.36E-09  2.35E-09
+  -463.0 -9.87E-07  3.07E-07 -1.21E-09  2.31E-09
+  -465.0 -9.29E-07  3.36E-07 -1.06E-09  2.27E-09
+  -467.0 -8.72E-07  3.61E-07 -9.14E-10  2.22E-09
+  -469.0 -8.17E-07  3.83E-07 -7.79E-10  2.17E-09
+  -471.0 -7.63E-07  4.01E-07 -6.53E-10  2.11E-09
+  -473.0 -7.11E-07  4.16E-07 -5.34E-10  2.05E-09
+  -475.0 -6.61E-07  4.27E-07 -4.23E-10  1.99E-09
+  -477.0 -6.12E-07  4.37E-07 -3.18E-10  1.93E-09
+  -479.0 -5.65E-07  4.43E-07 -2.22E-10  1.86E-09
+  -481.0 -5.21E-07  4.48E-07 -1.32E-10  1.79E-09
+  -483.0 -4.77E-07  4.50E-07 -4.75E-11  1.73E-09
+  -485.0 -4.36E-07  4.50E-07  2.99E-11  1.66E-09
+  -487.0 -3.97E-07  4.49E-07  1.01E-10  1.59E-09
+  -489.0 -3.59E-07  4.46E-07  1.66E-10  1.52E-09
+  -491.0 -3.24E-07  4.41E-07  2.25E-10  1.45E-09
+  -493.0 -2.90E-07  4.35E-07  2.78E-10  1.38E-09
+  -495.0 -2.58E-07  4.28E-07  3.27E-10  1.31E-09
+  -497.0 -2.28E-07  4.20E-07  3.70E-10  1.24E-09
+  -499.0 -1.99E-07  4.11E-07  4.09E-10  1.17E-09
+  -501.0 -1.72E-07  4.01E-07  4.43E-10  1.11E-09
+  -503.0 -1.47E-07  3.90E-07  4.73E-10  1.04E-09
+  -505.0 -1.24E-07  3.79E-07  4.99E-10  9.76E-10
+  -507.0 -1.01E-07  3.67E-07  5.20E-10  9.14E-10
+  -509.0 -8.10E-08  3.55E-07  5.38E-10  8.54E-10
+  -511.0 -6.19E-08  3.42E-07  5.53E-10  7.95E-10
+  -513.0 -4.43E-08  3.29E-07  5.65E-10  7.37E-10
+  -515.0 -2.80E-08  3.16E-07  5.74E-10  6.82E-10
+  -517.0 -1.30E-08  3.03E-07  5.79E-10  6.28E-10
+  -519.0  7.27E-10  2.90E-07  5.83E-10  5.77E-10
+  -521.0  1.33E-08  2.77E-07  5.84E-10  5.27E-10
+  -523.0  2.47E-08  2.63E-07  5.82E-10  4.80E-10
+  -525.0  3.50E-08  2.50E-07  5.79E-10  4.35E-10
+  -527.0  4.42E-08  2.38E-07  5.74E-10  3.91E-10
+  -529.0  5.25E-08  2.25E-07  5.67E-10  3.50E-10
+  -531.0  5.99E-08  2.12E-07  5.59E-10  3.11E-10
+  -533.0  6.64E-08  2.00E-07  5.49E-10  2.73E-10
+  -535.0  7.21E-08  1.88E-07  5.38E-10  2.38E-10
+  -537.0  7.70E-08  1.77E-07  5.26E-10  2.04E-10
+  -539.0  8.11E-08  1.65E-07  5.14E-10  1.73E-10
+  -541.0  8.46E-08  1.54E-07  5.00E-10  1.43E-10
+  -543.0  8.75E-08  1.43E-07  4.85E-10  1.15E-10
+  -545.0  8.97E-08  1.33E-07  4.70E-10  8.91E-11
+  -547.0  9.14E-08  1.23E-07  4.54E-10  6.51E-11
+  -549.0  9.26E-08  1.14E-07  4.39E-10  4.24E-11
+  -551.0  9.33E-08  1.05E-07  4.22E-10  2.17E-11
+  -553.0  9.36E-08  9.57E-08  4.06E-10  2.16E-12
+  -555.0  9.35E-08  8.73E-08  3.89E-10 -1.56E-11
+  -557.0  9.31E-08  7.93E-08  3.72E-10 -3.19E-11
+  -559.0  9.23E-08  7.17E-08  3.56E-10 -4.67E-11
+  -561.0  9.12E-08  6.44E-08  3.39E-10 -6.03E-11
+  -563.0  8.99E-08  5.75E-08  3.22E-10 -7.25E-11
+  -565.0  8.83E-08  5.10E-08  3.06E-10 -8.35E-11
+  -567.0  8.65E-08  4.49E-08  2.90E-10 -9.34E-11
+  -569.0  8.45E-08  3.91E-08  2.74E-10 -1.02E-10
+  -571.0  8.24E-08  3.36E-08  2.58E-10 -1.10E-10
+  -573.0  8.01E-08  2.85E-08  2.43E-10 -1.16E-10
+  -575.0  7.77E-08  2.38E-08  2.28E-10 -1.22E-10
+  -577.0  7.52E-08  1.93E-08  2.14E-10 -1.26E-10
+  -579.0  7.26E-08  1.52E-08  1.99E-10 -1.30E-10
+  -581.0  7.00E-08  1.13E-08  1.86E-10 -1.33E-10
+  -583.0  6.73E-08  7.79E-09  1.73E-10 -1.36E-10
+  -585.0  6.46E-08  4.52E-09  1.60E-10 -1.37E-10
+  -587.0  6.19E-08  1.51E-09  1.48E-10 -1.38E-10
+  -589.0  5.91E-08 -1.24E-09  1.36E-10 -1.39E-10
+  -591.0  5.64E-08 -3.75E-09  1.24E-10 -1.38E-10
+  -593.0  5.37E-08 -6.03E-09  1.14E-10 -1.38E-10
+  -595.0  5.10E-08 -8.08E-09  1.03E-10 -1.36E-10
+  -597.0  4.83E-08 -9.92E-09  9.34E-11 -1.35E-10
+  -599.0  4.57E-08 -1.16E-08  8.40E-11 -1.33E-10
+  -601.0  4.31E-08 -1.30E-08  7.51E-11 -1.30E-10
+  -603.0  4.06E-08 -1.43E-08  6.66E-11 -1.27E-10
+  -605.0  3.81E-08 -1.54E-08  5.88E-11 -1.24E-10
+  -607.0  3.57E-08 -1.64E-08  5.13E-11 -1.21E-10
+  -609.0  3.34E-08 -1.72E-08  4.42E-11 -1.18E-10
+  -611.0  3.11E-08 -1.78E-08  3.76E-11 -1.14E-10
+  -613.0  2.89E-08 -1.84E-08  3.14E-11 -1.10E-10
+  -615.0  2.68E-08 -1.88E-08  2.57E-11 -1.06E-10
+  -617.0  2.48E-08 -1.91E-08  2.03E-11 -1.02E-10
+  -619.0  2.28E-08 -1.93E-08  1.53E-11 -9.72E-11
+  -621.0  2.10E-08 -1.94E-08  1.07E-11 -9.28E-11
+  -623.0  1.92E-08 -1.95E-08  6.42E-12 -8.83E-11
+  -625.0  1.75E-08 -1.94E-08  2.52E-12 -8.38E-11
+  -627.0  1.58E-08 -1.93E-08 -1.10E-12 -7.92E-11
+  -629.0  1.43E-08 -1.91E-08 -4.41E-12 -7.46E-11
+  -631.0  1.28E-08 -1.89E-08 -7.43E-12 -7.00E-11
+  -633.0  1.14E-08 -1.86E-08 -1.02E-11 -6.54E-11
+  -635.0  1.01E-08 -1.82E-08 -1.27E-11 -6.07E-11
+  -637.0  8.83E-09 -1.78E-08 -1.49E-11 -5.62E-11
+  -639.0  7.65E-09 -1.74E-08 -1.70E-11 -5.16E-11
+  -641.0  6.55E-09 -1.69E-08 -1.88E-11 -4.71E-11
+  -643.0  5.52E-09 -1.65E-08 -2.04E-11 -4.27E-11
+  -645.0  4.56E-09 -1.59E-08 -2.19E-11 -3.83E-11
+  -647.0  3.66E-09 -1.54E-08 -2.33E-11 -3.40E-11
+  -649.0  2.82E-09 -1.49E-08 -2.45E-11 -2.98E-11
+  -651.0  2.05E-09 -1.43E-08 -2.55E-11 -2.56E-11
+  -653.0  1.34E-09 -1.38E-08 -2.65E-11 -2.15E-11
+  -655.0  6.78E-10 -1.32E-08 -2.74E-11 -1.76E-11
+  -657.0  7.45E-11 -1.26E-08 -2.82E-11 -1.37E-11
+  -659.0 -4.77E-10 -1.21E-08 -2.90E-11 -9.88E-12
+  -661.0 -9.78E-10 -1.15E-08 -2.97E-11 -6.21E-12
+  -663.0 -1.43E-09 -1.09E-08 -3.04E-11 -2.60E-12
+  -665.0 -1.84E-09 -1.04E-08 -3.11E-11  8.62E-13
+  -667.0 -2.21E-09 -9.82E-09 -3.18E-11  4.23E-12
+  -669.0 -2.53E-09 -9.28E-09 -3.25E-11  7.47E-12
+  -671.0 -2.82E-09 -8.75E-09 -3.32E-11  1.06E-11
+  -673.0 -3.07E-09 -8.23E-09 -3.39E-11  1.36E-11
+  -675.0 -3.29E-09 -7.72E-09 -3.48E-11  1.65E-11
+  -677.0 -3.47E-09 -7.23E-09 -3.56E-11  1.92E-11
+  -679.0 -3.63E-09 -6.75E-09 -3.66E-11  2.18E-11
+  -681.0 -3.76E-09 -6.28E-09 -3.76E-11  2.43E-11
+  -683.0 -3.86E-09 -5.84E-09 -3.88E-11  2.66E-11
+  -685.0 -3.94E-09 -5.40E-09 -4.00E-11  2.87E-11
+  -687.0 -3.99E-09 -4.99E-09 -4.13E-11  3.08E-11
+  -689.0 -4.03E-09 -4.59E-09 -4.28E-11  3.26E-11
+  -691.0 -4.05E-09 -4.21E-09 -4.44E-11  3.43E-11
+  -693.0 -4.04E-09 -3.84E-09 -4.61E-11  3.58E-11
+  -695.0 -4.03E-09 -3.49E-09 -4.80E-11  3.71E-11
+  -697.0 -4.00E-09 -3.16E-09 -5.00E-11  3.82E-11
+  -699.0 -3.95E-09 -2.84E-09 -5.22E-11  3.91E-11
+  -701.0 -3.90E-09 -2.54E-09 -5.45E-11  3.98E-11
+  -703.0 -3.83E-09 -2.26E-09 -5.70E-11  4.03E-11
+  -705.0 -3.75E-09 -1.99E-09 -5.97E-11  4.05E-11
+  -707.0 -3.67E-09 -1.73E-09 -6.25E-11  4.05E-11
+  -709.0 -3.58E-09 -1.50E-09 -6.55E-11  4.03E-11
+  -711.0 -3.48E-09 -1.27E-09 -6.86E-11  3.98E-11
+  -713.0 -3.38E-09 -1.06E-09 -7.19E-11  3.90E-11
+  -715.0 -3.27E-09 -8.70E-10 -7.53E-11  3.79E-11
+  -717.0 -3.16E-09 -6.88E-10 -7.89E-11  3.65E-11
+  -719.0 -3.05E-09 -5.20E-10 -8.27E-11  3.48E-11
+  -721.0 -2.93E-09 -3.64E-10 -8.66E-11  3.27E-11
+  -723.0 -2.81E-09 -2.21E-10 -9.06E-11  3.03E-11
+  -725.0 -2.70E-09 -8.85E-11 -9.47E-11  2.75E-11
+  -727.0 -2.58E-09  3.25E-11 -9.90E-11  2.43E-11
+  -729.0 -2.46E-09  1.43E-10 -1.03E-10  2.07E-11
+  -731.0 -2.34E-09  2.43E-10 -1.08E-10  1.67E-11
+  -733.0 -2.22E-09  3.33E-10 -1.12E-10  1.22E-11
+  -735.0 -2.11E-09  4.15E-10 -1.17E-10  7.30E-12
+  -737.0 -1.99E-09  4.87E-10 -1.21E-10  1.89E-12
+  -739.0 -1.88E-09  5.52E-10 -1.26E-10 -4.02E-12
+  -741.0 -1.77E-09  6.08E-10 -1.30E-10 -1.05E-11
+  -743.0 -1.67E-09  6.58E-10 -1.35E-10 -1.74E-11
+  -745.0 -1.56E-09  7.00E-10 -1.39E-10 -2.49E-11
+  -747.0 -1.46E-09  7.36E-10 -1.44E-10 -3.31E-11
+  -749.0 -1.36E-09  7.66E-10 -1.48E-10 -4.17E-11
+  -751.0 -1.27E-09  7.91E-10 -1.52E-10 -5.11E-11
+  -753.0 -1.18E-09  8.10E-10 -1.56E-10 -6.10E-11
+  -755.0 -1.09E-09  8.24E-10 -1.59E-10 -7.16E-11
+  -757.0 -1.00E-09  8.34E-10 -1.62E-10 -8.28E-11
+  -759.0 -9.21E-10  8.39E-10 -1.65E-10 -9.47E-11
+  -761.0 -8.43E-10  8.41E-10 -1.68E-10 -1.07E-10
+  -763.0 -7.68E-10  8.40E-10 -1.70E-10 -1.21E-10
+  -765.0 -6.97E-10  8.35E-10 -1.72E-10 -1.35E-10
+  -767.0 -6.29E-10  8.27E-10 -1.73E-10 -1.49E-10
+  -769.0 -5.65E-10  8.17E-10 -1.73E-10 -1.65E-10
+  -771.0 -5.03E-10  8.04E-10 -1.73E-10 -1.81E-10
+  -773.0 -4.46E-10  7.90E-10 -1.72E-10 -1.98E-10
+  -775.0 -3.91E-10  7.73E-10 -1.70E-10 -2.15E-10
+  -777.0 -3.40E-10  7.55E-10 -1.67E-10 -2.33E-10
+  -779.0 -2.92E-10  7.36E-10 -1.63E-10 -2.52E-10
+  -781.0 -2.47E-10  7.15E-10 -1.59E-10 -2.72E-10
+  -783.0 -2.04E-10  6.93E-10 -1.53E-10 -2.92E-10
+  -785.0 -1.65E-10  6.71E-10 -1.46E-10 -3.13E-10
+  -787.0 -1.28E-10  6.47E-10 -1.37E-10 -3.35E-10
+  -789.0 -9.46E-11  6.23E-10 -1.28E-10 -3.57E-10
+  -791.0 -6.32E-11  5.99E-10 -1.16E-10 -3.79E-10
+  -793.0 -3.44E-11  5.75E-10 -1.04E-10 -4.02E-10
+  -795.0 -7.88E-12  5.50E-10 -8.93E-11 -4.26E-10
+  -797.0  1.63E-11  5.26E-10 -7.31E-11 -4.50E-10
+  -799.0  3.84E-11  5.01E-10 -5.51E-11 -4.74E-10
